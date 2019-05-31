@@ -1,7 +1,9 @@
 
 <h1 align="center">Story/Ticket template</h1>
 
-You can use the *below* template when creating a new ticket. This will help you save time, when it comes to the information you need to include in your description, and also, this will help you make sure you don't forget any important requirements/questions/information.
+You can use the *below* template when creating a new ticket*. This will help you save time when it comes to the information you need to include in your description, it will help you make sure you don't forget any important requirements/questions/information. Furthermore, it encourages the writer/viewers to think about these aspects every time they interact with the story, contributing and improving it by sharing knowledge and concerns. 
+<br><br>
+\*Should you *not* require every heading/section in the template at the time of writing, it is good to leave the headers in with either N/A, or just themselves, blank, so that you (or anyone else) can easily add more knowledge in any section at any given time, without losing the *overall structure*.
 <br><br>
 
 >**Prerequisites**
@@ -20,7 +22,7 @@ tablets, mobile, desktops, etc.)*
 could be answered, and also, these questions might raise other concerns or clarifications.*
 ><br>&nbsp;&nbsp;&nbsp;&nbsp;<u>Notes</u>
 ><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Add here any points of confusion, or a list with assumptions, if necessary.*
->**Acceptance Criteria**
+><br><br>**Acceptance Criteria**
 ><br>&nbsp;&nbsp;&nbsp;&nbsp; 1. <u>*Feature*</u> *: Title of requirement (short description of the requirement)*
 ><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>*Scenario*</u>*: Given ______ and ______*
 ><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*When _____* 
